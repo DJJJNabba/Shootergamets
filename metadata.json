@@ -1,0 +1,5 @@
+{
+  "name": "Astro Blaster: 2D Top-Down Shooter",
+  "description": "A fast-paced 2D top-down shooter game where you control a ship, blast enemies, and survive as long as possible. Features dynamic gameplay and a touch of AI-generated commentary on game over. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
